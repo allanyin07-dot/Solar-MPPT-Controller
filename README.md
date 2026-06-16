@@ -1,2 +1,2 @@
 # Solar-MPPT-Controller
-Solar MPPT Controller, Allan Yin, Status = In progress
+Solar MPPT Controller, Allan Yin, Status = "Phase 1A --- Learning & Software"
