@@ -33,7 +33,8 @@ type of array, name of array [specifiy # of elements that can be stored in array
 -To create an array: classify type of data being stored (int, char, double), name of array, [] (tells it is an array), = , {data separated by commas}, ;\
 -To access an element in print function: printf ("%(type of array)", name of array[index #]);
 
-
+For loops:\
+-Structure: for (initial condition (an initial variable), condition (what to be evaluated before each repetition), update (runs at end of iteration, modifies loop variable)
 
 **IMPORTANT: Fixed width types are data types that have an exact size of bits such as 8 or 16. They guarantee a specific number of bits for memory, regardless of the hardware. They are used to help no avoid sizing differences and are utilized in hardware since hardware typically has an exact size.\
 By utilizing a fixed width type, we can make sure that the software that is created will align perfectly with the hardware's footprint.
